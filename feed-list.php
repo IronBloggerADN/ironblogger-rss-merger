@@ -1,6 +1,6 @@
 <?php
 $rss->add("http://lukasepple.de/blog/rss.php");
-$rss->add("http://spda.vela.uberspace.de/?feed=mp3");
+$rss->add("http://spda.vela.uberspace.de/?feed=rss2");
 $rss->add("http://www.blumenkraft.eu/feed/");
 $rss->add("http://dreamings.de/feed/");
 $rss->add("http://dasdom.de/WordPress/feed/");
