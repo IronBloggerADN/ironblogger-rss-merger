@@ -18,4 +18,5 @@ $rss->add("http://www.vlachbild.de/feed/");
 $rss->add("http://keinehosensonntag.de/author/xl/feed/");
 $rss->add("http://www.taptoplay.de/rss");
 $rss->add("http://www.zwentner.com/?feed=rss2");
+$rss->add("http://woleonard.wordpress.com/feed/");
 ?>
